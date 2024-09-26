@@ -262,13 +262,34 @@ pannellum.viewer('panorama', {
                     "yaw": 360,
                     "type": "scene",
                     "text": "HOSTEL || UNIVERSITY PLAYGROUND ||COLLAGE",
-                    "sceneId": "scene12" 
+                    "sceneId": "scene11" 
                 },
                 {
                     "pitch": 11,
                      "yaw": -38,
                      "type": "info",
                      "text": " MBBS GIRLS HOSTEL ",
+                
+                 }
+            ]
+        },
+
+        "scene11":{
+            "type":"equirectangular",
+            "panorama":"imgsrhu.jpg",
+            "hotSpots":[
+                {
+                   "pitch": 7,
+                    "yaw": 360,
+                    "type": "scene",
+                    "text": "HSST,HSMS,HSBS",
+                    "sceneId": "scene12" 
+                },
+                {
+                    "pitch": 11,
+                     "yaw": -38,
+                     "type": "info",
+                     "text": "............................ ",
                 
                  }
             ]
